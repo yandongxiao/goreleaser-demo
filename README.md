@@ -1,3 +1,5 @@
+最终结论：可以使用 gh 来创建 release && 上传 artifacts, 使用 git-chglog 来自动化地生成 relase Note.
+
 GoReleaser is a release automation tool for Go projects.
 Its goal is to simplify the build, release and publish steps while providing variant customization options for all steps.
 
